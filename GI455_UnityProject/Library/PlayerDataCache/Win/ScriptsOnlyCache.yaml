@@ -72,9 +72,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12450}
     - Class: 114
-      Script: {instanceID: 12758}
+      Script: {instanceID: 12756}
     - Class: 114
-      Script: {instanceID: 13120}
+      Script: {instanceID: 13118}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -539,4 +539,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/ChatProgram/Scenes/ChatProgram.unity
-  playerPath: N:/@BU/63-2/GI455 Networking and Multiplayer Online Games/GI455_1620704070/BuildTest/GI455_Week1.exe
+  playerPath: N:/@BU/63-2/GI455 Networking and Multiplayer Online Games/GI455_1620704070/BuildTest/GI455_1620704070_Week2.exe
