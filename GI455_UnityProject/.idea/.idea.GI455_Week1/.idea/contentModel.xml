@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\NON\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\NON\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_GI455_Week1.606689724.00" t="ExcludeRecursive" />
+    <e p="C:\Users\NON\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="N:\@BU\63-2\GI455 Networking and Multiplayer Online Games\GI455_1620704070\GI455_Week1" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ChatProgram" t="Include">
+          <e p="Script" t="Include">
+            <e p="UIManager.cs" t="Include" />
+            <e p="WebsocketChatProgram.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMatchingProgram" t="Include">
+          <e p="Script" t="Include">
+            <e p="TextMatchingManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GI455_Week1.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="N:\@BU\63-2\GI455 Networking and Multiplayer Online Games\GI455_1620704070\NodeJS\node_modules\ws" t="IncludeRecursive" />
+  </component>
+</project>
