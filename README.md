@@ -5,7 +5,7 @@
 
 * [x] Week 1 Assignment : GI455_Week1 **Commit** "Send Assignment Week1"
 * [x] Week 2 Assignment : 
-      *[Edit] GI455_Week1 -> GI455_UnityProject (Renaming) **Commit** "Send Assignment Week2"
-      *[Add] BuildTest
-      *[Add] NodeJS
+ * [Edit] GI455_Week1 -> GI455_UnityProject (Renaming) **Commit** "Send Assignment Week2"
+ * [Add] BuildTest
+ * [Add] NodeJS
 * [] ....
