@@ -23,9 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ecc584-fb99-4b24-824d-528ca0a3202f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../GI455_Week1/.idea/.idea.GI455_Week1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GI455_Week1/.idea/.idea.GI455_Week1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GI455_Week1/.idea/.idea.GI455_Week1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GI455_Week1/.idea/.idea.GI455_Week1/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GI455_Week1/.idea/.idea.GI455_Week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GI455_Week1/.idea/.idea.GI455_Week1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +62,14 @@
       <updated>1611984851238</updated>
       <workItem from="1611984857342" duration="21000" />
       <workItem from="1611984972210" duration="1624000" />
+      <workItem from="1612453762043" duration="98000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

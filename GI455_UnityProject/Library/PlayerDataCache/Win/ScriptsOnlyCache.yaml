@@ -1,8 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - ChatProgram.UIManager
-    - ChatProgram.WebsocketChatProgram
+    - JsonChatProgram.WebsocketChatServer
+    - NewUIManager
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.RiderScriptEditorData
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -15,18 +15,20 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
-    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.Dropdown
     - UnityEngine.UI.GraphicRaycaster
-    - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
     - UnityEngine.UI.InputField
+    - UnityEngine.UI.Mask
     - UnityEngine.UI.RectMask2D
     - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Shadow
     - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/ChatProgram/Scenes/ChatProgram.unity:
+    Assets/JsonChatWithRoomProgram/Scenes/JsonChatProgram.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -44,37 +46,41 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11232}
-    - Class: 114
-      Script: {instanceID: 11244}
-    - Class: 114
-      Script: {instanceID: 11254}
+      Script: {instanceID: 11252}
     - Class: 114
       Script: {instanceID: 11420}
     - Class: 114
+      Script: {instanceID: 11422}
+    - Class: 114
       Script: {instanceID: 11460}
     - Class: 114
-      Script: {instanceID: 11560}
+      Script: {instanceID: 11476}
     - Class: 114
-      Script: {instanceID: 11662}
+      Script: {instanceID: 11664}
     - Class: 114
-      Script: {instanceID: 11788}
+      Script: {instanceID: 11758}
     - Class: 114
-      Script: {instanceID: 11860}
+      Script: {instanceID: 11770}
     - Class: 114
-      Script: {instanceID: 12058}
+      Script: {instanceID: 11794}
     - Class: 114
-      Script: {instanceID: 12060}
+      Script: {instanceID: 11868}
     - Class: 114
-      Script: {instanceID: 12258}
+      Script: {instanceID: 12068}
     - Class: 114
-      Script: {instanceID: 12352}
+      Script: {instanceID: 12266}
     - Class: 114
-      Script: {instanceID: 12450}
+      Script: {instanceID: 12360}
     - Class: 114
-      Script: {instanceID: 12756}
+      Script: {instanceID: 12458}
     - Class: 114
-      Script: {instanceID: 13118}
+      Script: {instanceID: 12766}
+    - Class: 114
+      Script: {instanceID: 13116}
+    - Class: 114
+      Script: {instanceID: 13128}
+    - Class: 114
+      Script: {instanceID: 13142}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -92,12 +98,6 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
-  - hash:
-      serializedVersion: 2
-      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: HorizontalLayoutGroup
   - hash:
       serializedVersion: 2
       Hash: a7a6efe84f4b0c3d3dcbb9ed2daeaecb
@@ -190,6 +190,12 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
+      Hash: 345d67cf9583b354a8cd9efe1edf1653
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JsonChatProgram
+    className: WebsocketChatServer
+  - hash:
+      serializedVersion: 2
       Hash: 234d407605354852c48e57df17c9a1c6
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -254,6 +260,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 497e18fb354cc22a1d47e83b22e62874
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NewUIManager
   - hash:
       serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
@@ -368,6 +380,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
   - hash:
       serializedVersion: 2
       Hash: 344a8c2e106a0a4e098e91a52e0af063
@@ -538,5 +556,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 5
   scenePathNames:
-  - Assets/ChatProgram/Scenes/ChatProgram.unity
-  playerPath: N:/@BU/63-2/GI455 Networking and Multiplayer Online Games/GI455_1620704070/BuildTest/GI455_1620704070_Week2.exe
+  - Assets/JsonChatWithRoomProgram/Scenes/JsonChatProgram.unity
+  playerPath: N:/@BU/63-2/GI455 Networking and Multiplayer Online Games/GI455_1620704070/BuildTest/JsonChatProgram/GI455_1620704070.exe
