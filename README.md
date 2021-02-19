@@ -8,7 +8,7 @@
  * [Edit] GI455_Week1 -> GI455_UnityProject (Renaming) **Commit** "Send Assignment Week2"
  * [Add] BuildTest
  * [Add] NodeJS
-* [x] Week 4 Assignment : GI455_1620704070 **Commit** "Send Assignment Week4"
+* [x] Week 4 Assignment : GI455_UnityProject **Commit** "Send Assignment Week4"
  * [Add] BuildTest : JsonChatProgram
  * [Add] ETC...
 * [ ] ....
