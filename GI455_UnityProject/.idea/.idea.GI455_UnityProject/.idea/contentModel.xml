@@ -7,19 +7,34 @@
     <e p="N:\@BU\63-2\GI455 Networking and Multiplayer Online Games\GI455_1620704070\GI455_UnityProject" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="ChatProgram" t="Include">
+        <e p="1_ChatProgram" t="Include">
           <e p="Script" t="Include">
             <e p="UIManager.cs" t="Include" />
             <e p="WebsocketChatProgram.cs" t="Include" />
           </e>
         </e>
-        <e p="JsonChatWithRoomProgram" t="Include">
+        <e p="2_JsonChatWithRoomProgram" t="Include">
           <e p="Script" t="Include">
             <e p="Lobby.cs" t="Include" />
             <e p="LobbyManager.cs" t="Include" />
             <e p="NewUIManager.cs" t="Include" />
             <e p="Room.cs" t="Include" />
             <e p="WebsocketChatServer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="3_JsonChatWithDatabaseProgram" t="Include">
+          <e p="Script" t="Include">
+            <e p="ChatWebsocketServerManager.cs" t="Include" />
+            <e p="DataCollector.cs" t="Include" />
+            <e p="NewUIManager.cs" t="Include" />
+            <e p="Room.cs" t="Include" />
+            <e p="RoomManageer.cs" t="Include" />
+            <e p="UserData.cs" t="Include" />
+          </e>
+        </e>
+        <e p="_MidTerm" t="Include">
+          <e p="Script" t="Include">
+            <e p="WSPreMid.cs" t="Include" />
           </e>
         </e>
         <e p="TextMatchingProgram" t="Include">

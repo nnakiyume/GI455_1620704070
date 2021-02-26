@@ -23,137 +23,149 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="852ef3cc-e2de-4c48-973e-2de07fa31188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Lobby.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Lobby.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/Mono.Security.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.ComponentModel.Composition.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Configuration.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Data.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Diagnostics.StackTrace.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Drawing.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.EnterpriseServices.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Globalization.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.IO.Compression.FileSystem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.IO.Compression.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Runtime.Serialization.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.ServiceModel.Internals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Transactions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Xml.Linq.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Xml.XPath.XDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/System.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/Unity.Timeline.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.AIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ARModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.AccessibilityModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.AndroidJNIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.AnimationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.AssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.AudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ClothModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ClusterInputModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ClusterRendererModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.CoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.CrashReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.DSPGraphModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.DirectorModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.GameCenterModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.GridModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.HotReloadModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.IMGUIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ImageConversionModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.InputLegacyModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.InputModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.JSONSerializeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.LocalizationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ParticleSystemModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.Physics2DModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.PhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ProfilerModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.SharedInternalsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.SpriteMaskModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.SpriteShapeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.StreamingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.SubstanceModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.SubsystemsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.TLSModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.TerrainModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.TextCoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.TextRenderingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.TilemapModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UIElementsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UNETModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UmbraModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityConnectModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.VFXModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.VRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.VehiclesModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.VideoModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.WindModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.XRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/UnityEngine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/mscorlib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/netstandard.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Managed/websocket-sharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Resources/unity default resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/Resources/unity_builtin_extra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/app.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/boot.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/globalgamemanagers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/globalgamemanagers.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/level0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/sharedassets0.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/GI455_1620704070_Week2_Data/sharedassets0.assets.resS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/UnityCrashHandler32.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuildTest/UnityPlayer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Prefabs/ChatEmptyPrefab.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Prefabs/ChatEmptyPrefab.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Prefabs/ChatPrefab.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Prefabs/ChatPrefab.prefab.meta" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/DataCollector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/DataCollector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/RoomManageer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/RoomManageer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/UserData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/UserData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GI455_UnityProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Scenes/ChatProgram.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Scenes/ChatProgram.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Script.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Script/UIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Script/UIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Script/WebsocketChatProgram.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChatProgram/Script/WebsocketChatProgram.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Scenes/JsonChatProgram.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Scenes/JsonChatProgram.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Lobby.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Lobby.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/LobbyManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/LobbyManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/NewUIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/NewUIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Room.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Room.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/WebsocketChatServer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/WebsocketChatServer.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/02/02103a7b64770b35437b4bf95e738fb2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/02/02f6592fce34eba45dfacd558e28658f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/03/03af23da2969fac9e34790ffd2f4a04d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/04/047c61756a85c6f1bdef708bd246475d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0a/0afd2a83b8bcec3d01f03737f5a74280" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0b/0b12e5a5ee12256f3a1e2fbd0c4681c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/10/10951207a124bb9de254d4319dfa032d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/14/143c6f229bb9e92aad60da7f8d8de3e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/16/169eddbbb54ecc70d1179f15edc72f1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/17/1783902a6f9cdcec5d442c556438f91d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/18/189c308de380679f5b411a7ab8e316e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1c/1c703a37f0ab94466840e1b6ba24fcd4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1d/1dafb98e25c7be917b02b427a1e26321" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/21/21dd3ea1420702065d1a8b4be63bbd68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/21/21f119df43e6f239a3073d6042d814f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/23/23dd81ff2f8c8070e24101e75c6633eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/24/2489f16489417bc6efd539bdeee57198" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/26/26ccd78db0e694a2ed2038751e3432aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/26/26e87dcee4ce7ba54bb02a329da96fec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2b/2b35220b34f59ff7e345723d23d2cdbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2c/2c428d0d19dedcdff347049913cc5f70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2e/2e24f854f4eb7677fa568c2633a3f577" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/30/30555fb335a1ffee219dbd8f2695d9bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/32/32276b03ec68fba947ea7c738d660afd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/36/363fcbbc0c4a9949df5c4617d80fcf9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/36/36f652763fc3fd936e4309cb25cf8439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/38/38faec45a0a610b1bc8ba56567c9586d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/39/3988c29b7aea95dc30dec1a519319ea0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3c/3c798eb3c7c9fffa7284f2d79e102766" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3d/3d17e6c2184e689a20a1e6a2ffce087b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/40/40eab2a52a03196f1f261875c693d98a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/41/414c466a89558dbe27e506a229856c7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/44/4476e3a1adce67b16bad5ddf6a57de2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/44/44a10141cb4a9f12301d61a825dad7ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4e/4efa8f60af3e1e20722f6f73f7d6d3a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4fa29eabc6601356b1d829d6921403c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/51/51d90e658e83e42b904e647c62a0229f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/51/51f9c1efb8996f02f63f342b2f798446" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/53/53b17508950e917d020b96b94aa9c54f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/56/569e1747c601cf01c0b742e1b5930432" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/59/591b50b5493e4b558d38c5798ddabd67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/59/59a3f2a64c77199f66b764081e27461e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5a/5a5aa770de0bb827f7ec833a1d2503a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5a/5a7c13e743c0edd82acd64cb8540f950" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5b/5b5345b75da30677fc596d3f7ff4330b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5c/5c9a31c40c0e62294f6ee0b642685ed9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/60/60dc801b012e05f35ee87849d8966b1f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/65/65d23d54eecb89b4e90cce44c6bc2395" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/66/66ffd51fabf1ff53ebf9e6411de03923" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/67/67b1ff960b30181d9ee8714df4c6b079" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/69/691cfeb0098f7a4231145673998ee8af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6d/6d99e1a7f260c76ccc1b7bbe9208dfd5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6f/6fbcbcc8a6165ad3a73f6a47e0f95391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/70/704d7f7e2659040473cc7294f40692e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/74/749fa447d95ba980b343bea406851e1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/78/7832b651099ab5e79dfeb0ed2bd05a10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7a4458e48cf4084aa3f88e829b0da75c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/83/83de69fb4337a5b199ed67e56228e1ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/85/85c5d429f5c05138e54e8a64fee69dfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/88/881553c8987a9c523a61e5ddd1557e58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8b/8b6d0deedbfbacc25f70201e2d244737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8e/8e315b69448095069e79f822eb1fff10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8e/8ef62580a33fb2f727445d16bedea11e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/92/9246c7cb695a8a1676e5128772abcc89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/92/929e7fd808e1255b99c976fd7b2e5d7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/92/92dfa41c599847c15c8d08b34117dd00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/99/99cc056c482e7d5472e6409b74c89068" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a316fd3f038216516b01f9cdb5139e32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a4/a48ffb7b45cdedbd39801651bc29620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a6/a6e358b70604db295d7bfbc4c961f932" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ab/ab00045576792284e36da23ced19a1e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ad/ade037bb068d683159f5f803c3506b99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b4/b4ca87f1b5ad1199a21de09eb4205c17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b8/b8ed924684baf76b3c93c07a0be18c3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b9/b9d91205a5ba04d32560e79d0610c691" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ba/ba3e4a2cbfe754f30c5759cb3718567c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bb/bb7cc41f83a21951fa4f8e03f54871d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bc/bcc34a6d3b64db1064cb0a06b9fa4ea6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c06b43da1a74ad0a33d0b9ff3aab04bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c8/c8bdeed5c986be6570898654fe6984c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c8/c8c3cd3d96a55fa5d79d75b97d32ff82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c8/c8ca56895352e050d3e0bdf01557c4d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c8/c8fb6a3dc7c4ed7a56498a05f778d429" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cc/ccaedc88485cde5df7ed68a30b71b637" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cf/cfe165a3570fc06197254df709eb72ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d3/d342a142d963e18936c62c3edd5752a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d3/d34615a22d9d8fbfc9d2a5ed9be0cd92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d4/d40815adaecc668d29ca0e2a67421db8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d5/d537e2e4d77f242fcc26fcdab42dc666" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/da/da612ffc335f6adb2a0876ac6e1bdbaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/dc/dc18008b4fe8fb3c3dfed031b4dc10ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/de/de2ec67da859e3e337564ded6c232ede" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e3/e3aa0fd5b41ba70a50d1bc5a9551d30a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e8/e835dafb69c8d7c725d81912c0765f3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e8/e8b8a4259c2459c5c11686dba4e3434d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e9/e9797be6d602511b7ae9cc184d92b10a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ec/ece3931e4cce5c8c9afe47d187f44f1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ee/eef0b9fffd11738e1c556dc58136a3e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f0/f0c2716b36a968047e8d23ff7026023d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f3/f34ec05f5754fd21c4bf1c1533e10f60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f8/f81489f0a4cee29ce102d83c6433e22a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f9/f9456765156b7af80274889838625567" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f9/f9a485c2dd1d123b183b79dcbff04fab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fb/fbd95ab6954e1eba8a12f24ba5120367" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fc/fc6ccd43507e2cac0632f3f24b443dfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ff/ff4f5814700aa30ab4165168b132e7c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ff/ff71a61103fa4ec06150e7012dbc4195" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
@@ -170,10 +182,14 @@
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/2b6c17-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/2b6c17-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/.idea/.idea.NodeJS.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/.idea/.idea.NodeJS.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NodeJS/.idea/.idea.NodeJS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/.idea/.idea.NodeJS.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NodeJS/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeJS/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,11 +201,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/NewUIManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Documents/ZoomPhoto/WebSocketConnection.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/NewUIManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/WebsocketChatServer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Room.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/LobbyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -207,6 +221,15 @@
         <option value="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/Websocket.cs" />
         <option value="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/NewUIManager.cs" />
         <option value="$PROJECT_DIR$/Assets/JsonChatWithRoomProgram/Script/WebsocketChatServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MidTerm/Script/WSPreMid.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/Room.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/WebsocketChatServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/WebsocketServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/DataCollector.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/UserData.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/RoomManageer.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/ChatWebsocketServerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_JsonChatWithDatabaseProgram/Script/NewUIManager.cs" />
       </list>
     </option>
   </component>
@@ -267,6 +290,9 @@
       <workItem from="1612594264705" duration="2913000" />
       <workItem from="1613198848660" duration="25527000" />
       <workItem from="1613717226208" duration="21378000" />
+      <workItem from="1614160791544" duration="12391000" />
+      <workItem from="1614228573092" duration="26231000" />
+      <workItem from="1614305277826" duration="23419000" />
     </task>
     <servers />
   </component>
@@ -291,9 +317,13 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="192" width="670" height="676" key="search.everywhere.popup" timestamp="1613730186159">
+    <state x="707" y="385" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1614167587944">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="192" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1613730186159" />
+    <state x="707" y="385" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1080@0.0.1920.1080" timestamp="1614167587944" />
+    <state x="616" y="192" width="672" height="676" key="search.everywhere.popup" timestamp="1614342950368">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="192" width="672" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1614342950368" />
   </component>
 </project>
