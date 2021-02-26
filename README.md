@@ -11,7 +11,7 @@
 * [x] Week 4 Assignment : GI455_UnityProject **Commit** "Send Assignment Week4"
  * [Add] BuildTest : JsonChatProgram
  * [Add] ETC...
-* [x] Week  Assignment : GI455_UnityProject **Commit** "Send Assignment Week5"
- * [Note] Re coding all program :)
+* [x] Week 5 Assignment : GI455_UnityProject **Commit** "Send Assignment Week5"
+ * [Note] Re-program code with new method :)
  * [Add] BuildTest : JsonChatWithDatabase
 * [ ] ....
